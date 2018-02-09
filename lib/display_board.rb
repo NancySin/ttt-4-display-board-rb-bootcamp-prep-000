@@ -9,7 +9,7 @@ def display_board(board)
  position_5 = board[4]
  position_6 = board[5]
  position_7 = board[6]
- +osition_8 = board[7]
+ position_8 = board[7]
  position_9 = board[8]
 
  puts " #{position_1} | #{position_2} | #{position_3} "
